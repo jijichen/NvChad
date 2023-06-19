@@ -17,7 +17,7 @@ local sources = {
   b.formatting.clang_format,
 
   -- diagnostic markdown
-  b.diagnostic.markdownlint,
+  b.diagnostics.markdownlint,
 
   -- linter
   b.diagnostics.vale,
